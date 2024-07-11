@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DDharm007
 - 👀 I’m interested in Java and C++
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Web Devlopment
 - 💞️ I’m looking to collaborate on C# 
 - 😄 Pronouns: D
 - ⚡ Fun fact: ???

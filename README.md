@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DDharm007
-- 👀 I’m interested in Java and C++
-- 🌱 I’m currently learning Python and Web Devlopment
-- 💞️ I’m looking to collaborate on C# 
+- 👋 Hi, I’m Dharm Patel
+- 👀 I’m interested in Ethical Hacking
+- 🌱 I’m currently learning Python and C
+- 💞️ I’m looking to collaborate on Web Designing
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ???
 

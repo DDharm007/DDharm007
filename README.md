@@ -1,11 +1,62 @@
-- 👋 Hi, I’m Dharm Patel
-- 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python and C
-- 💞️ I’m looking to collaborate on Web Designing
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ???
+<!-- Profile README -->
 
-<!---
-DDharm007/DDharm007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  
+# 👋 Hi, I'm Dharm Patel  
+
+<img src="https://raw.githubusercontent.com/DDharm007/DDharm007/main/dev.gif" width="450"/>
+
+</div>
+
+---
+
+## 🚀 About Me
+- 💻 Full-Stack Developer  
+- ⚡ Passionate about **Web Development, AI & Open Source**  
+- 🎯 Exploring **Next.js, React, and AI-driven apps**  
+- 🌱 Currently working on **AI + Web Projects**  
+- 🔥 Always learning & experimenting with new technologies  
+
+---
+
+## 🛠️ Tech Stack
+<div align="center">
+
+### 🚀 Languages & Frameworks  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
+
+### 🛠 Tools & Platforms  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+![Dharm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DDharm007&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DDharm007&layout=compact&theme=tokyonight)
+
+</div>
+
+---
+
+## 📫 Connect With Me
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+
+</div>

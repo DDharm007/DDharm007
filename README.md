@@ -4,7 +4,7 @@
   
 # 👋 Hi, I'm Dharm Patel  
 
-<img src="https://raw.githubusercontent.com/DDharm007/DDharm007/main/dev.gif" width="450"/>
+<img src="https://media.tenor.com/HPryfF_cllQAAAAM/fire-writing.gif"/>
 
 </div>
 
@@ -55,8 +55,9 @@
 ## 📫 Connect With Me
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharm-patel-333752382/)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/patel88875)  
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://dharmpatell007.netlify.app/)  
 
 </div>
+

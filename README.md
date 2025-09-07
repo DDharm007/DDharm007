@@ -232,7 +232,7 @@ hobbies:
 </table>
 </div>
 
-### <div align="center">🤖 AI/ML & Other Technologies</div>
+### <div align="center">Other Technologies</div>
 <div align="center">
 <table>
 <tr>
@@ -310,46 +310,7 @@ hobbies:
 
 ## <div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Featured Projects & Portfolio <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"></div>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🤖 AI Projects</h3>
-<div align="center">
-<a href="https://github.com/DDharm007/AI-ChatBot">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DDharm007&repo=AI-ChatBot&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&bg_color=0D1117" alt="AI ChatBot"/>
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🌐 Web Development</h3>
-<div align="center">
-<a href="https://github.com/DDharm007/NextJS-Portfolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DDharm007&repo=NextJS-Portfolio&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&bg_color=0D1117" alt="NextJS Portfolio"/>
-</a>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">📱 Full-Stack Apps</h3>
-<div align="center">
-<a href="https://github.com/DDharm007/React-Projects">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DDharm007&repo=React-Projects&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&bg_color=0D1117" alt="React Projects"/>
-</a>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🔧 Tools & Utilities</h3>
-<div align="center">
-<a href="https://github.com/DDharm007/Developer-Tools">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DDharm007&repo=Developer-Tools&theme=tokyonight&hide_border=true&title_color=00D8FF&icon_color=00D8FF&text_color=FFFFFF&bg_color=0D1117" alt="Developer Tools"/>
-</a>
-</div>
-</td>
-</tr>
-</table>
-</div>
+
 
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

@@ -4,7 +4,7 @@
   
 # 👋 Hi, I'm Dharm Patel  
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5VH5oZjVEizHTKIHC6kXXd7xc9gZHpMollQ&s"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGtjam1pY3Noa2Zkbjd0MWRsbXNwdTFobnlzbThjY3kwb3ZoZTZmMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"/>
 
 </div>
 

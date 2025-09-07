@@ -3,32 +3,7 @@
 <!-- Blog post feed - you can replace these with actual blog posts -->
 <table align="center" width="100%">
 <tr>
-<td align="center" width="50%">
-<h4>🚀 "Building Responsive Layouts with CSS Grid & Flexbox"</h4>
-<img src="https://img.shields.io/badge/Read%20Article-FF6B6B?style=for-the-badge&logo=medium&logoColor=white" alt="Blog Post"/>
-<br><em>Published: Dec 2024</em>
-<br><small>Master modern CSS layout techniques for responsive design</small>
-</td>
-<td align="center" width="50%">
-<h4>⚡ "React Hooks: Best Practices & Common Patterns"</h4>
-<img src="https://img.shields.io/badge/Read%20Article-4ECDC4?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog Post"/>
-<br><em>Published: Nov 2024</em>
-<br><small>Deep dive into React hooks with practical examples</small>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<h4>🔧 "Next.js 14: New Features & Performance Improvements"</h4>
-<img src="https://img.shields.io/badge/Read%20Article-45B7D1?style=for-the-badge&logo=hashnode&logoColor=white" alt="Blog Post"/>
-<br><em>Published: Oct 2024</em>
-<br><small>Exploring the latest Next.js features and optimizations</small>
-</td>
-<td align="center" width="50%">
-<h4>🎨 "From Figma to Code: Design to Development Workflow"</h4>
-<img src="https://img.shields.io/badge/Read%20Article-96CEB4?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog Post"/>
-<br><em>Published: Sep 2024</em>
-<br><small>Streamlining the design-to-code process effectively</small>
-</td>
+
 </tr># <div align="center">
   
 <!-- Animated Header with Perfect Alignment -->

@@ -1,5 +1,3 @@
-### 📝 Recent Web Development Articles
-
 <!-- Blog post feed - you can replace these with actual blog posts -->
 <table align="center" width="100%">
 <tr>

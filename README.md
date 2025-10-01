@@ -733,9 +733,6 @@ console.log(codingMantra());
 
 ---
 
-<h3 align="center">💫 "The best time to plant a tree was 20 years ago. The second best time is now." 💫</h3>
-<h4 align="center">🚀 Let's build the future together, one commit at a time! 🚀</h4>
-
 ⭐️ **If you like what you see, don't forget to star my repositories!** ⭐️
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100%" height="2">

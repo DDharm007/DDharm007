@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dharm Patel 👋</h1>
 Full-stack developer passionate about web development, AI/ML, and building innovative solutions. Based in Gujarat, India.
 
-About Me
+<h1>About Me</h1>
 💻 Full-Stack Developer - JavaScript, TypeScript, React, Node.js
 
 🤖 AI/ML Enthusiast - TensorFlow, PyTorch, LangChain
@@ -12,7 +12,7 @@ About Me
 
 ☕ Coffee-Fueled Coder - Passionate about clean code
 
-Tech Stack
+<h1>Tech Stack</h1>
 Frontend: JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind
 
 Backend: Node.js, Python, Express, FastAPI, Django
@@ -25,7 +25,7 @@ AI/ML: TensorFlow, PyTorch, OpenAI, LangChain
 
 
 
-Get In Touch
+<h1>Get in touch</h1>
 📧 Email: dharm.hitesh7a@gmail.com
 
 🌐 Portfolio: https://buildwithdharm.vercel.app/

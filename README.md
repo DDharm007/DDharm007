@@ -46,7 +46,7 @@ AI Integration in Web Apps
 Get In Touch
 📧 Email: dharm.hitesh7a@gmail.com
 
-🌐 Portfolio: https://dharmpatell007.netlify.app/
+🌐 Portfolio: https://buildwithdharm.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/dharm-patel-333752382
 

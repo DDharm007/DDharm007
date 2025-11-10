@@ -34,7 +34,7 @@ AI/ML: TensorFlow, PyTorch, OpenAI, LangChain
 
 🐙 GitHub: https://github.com/DDharm007
 
-🐦 Twitter: dharmpatell_
+📷 Instagram: dharmpatell_
 
 Let's Collaborate
 Open to working on exciting projects in web development, AI/ML, system design, and open source. Feel free to reach out!

@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dharm Patel 👋<h1/>
+<h1>Hi, I'm Dharm Patel 👋</h1>
 Full-stack developer passionate about web development, AI/ML, and building innovative solutions. Based in Gujarat, India.
 
 About Me

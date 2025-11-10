@@ -1,4 +1,4 @@
-Hi, I'm Dharm Patel 👋
+<h1>Hi, I'm Dharm Patel 👋<h1/>
 Full-stack developer passionate about web development, AI/ML, and building innovative solutions. Based in Gujarat, India.
 
 About Me
@@ -23,25 +23,7 @@ Tools & Platforms: Git, GitHub, Docker, AWS, Vercel, Netlify
 
 AI/ML: TensorFlow, PyTorch, OpenAI, LangChain
 
-Featured Projects
-Code-Teaching-Institute-Sample-Website - React + Vite frontend with Node.js backend and SQL database
 
-GarudaGPT-Chatbot - AI-powered chatbot for task automation and productivity
-
-Object-Detector - HTML, CSS, and JavaScript object detection application
-
-Sherlock-Logic-Puzzle - Python program for logic puzzle solving
-
-Troj-n-Horse - Rust CLI calculator with system info collection
-
-Currently Learning
-Advanced React Patterns
-
-System Design & Architecture
-
-Blockchain Development
-
-AI Integration in Web Apps
 
 Get In Touch
 📧 Email: dharm.hitesh7a@gmail.com

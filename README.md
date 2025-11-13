@@ -4,6 +4,7 @@ Full-stack developer passionate about web development, AI/ML, and building innov
 <h1>About Me</h1>
 💻 Full-Stack Developer - JavaScript, TypeScript, React, Node.js
 
+
 🤖 AI/ML Enthusiast - TensorFlow, PyTorch, LangChain
 
 🎓 Computer Science Student - Continuous learner
@@ -14,6 +15,7 @@ Full-stack developer passionate about web development, AI/ML, and building innov
 
 <h1>Tech Stack</h1>
 Frontend: JavaScript, TypeScript, React, Next.js, HTML5, CSS3, Tailwind
+
 
 Backend: Node.js, Python, Express, FastAPI, Django
 
@@ -27,6 +29,7 @@ AI/ML: TensorFlow, PyTorch, OpenAI, LangChain
 
 <h1>Get in touch</h1>
 📧 Email: dharm.hitesh7a@gmail.com
+
 
 🌐 Portfolio: https://buildwithdharm.vercel.app/
 

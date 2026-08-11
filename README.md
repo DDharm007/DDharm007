@@ -22,7 +22,7 @@
 <p>
   <a href="https://dharmpatel-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-050A0E?style=for-the-badge&logo=vercel&logoColor=00F5A0" alt="Portfolio" /></a>
   <a href="https://craftoraa.com"><img src="https://img.shields.io/badge/Craftor%C4%81-050A0E?style=for-the-badge&logo=safari&logoColor=00D9F5" alt="Craftorā" /></a>
-  <a href="https://twitter.com/dharm_patel"><img src="https://img.shields.io/badge/@dharm__patel-050A0E?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
+  <a href="[https://twitter.com/dharm_patel](https://x.com/patel88875)"><img src="https://img.shields.io/badge/@dharm__patel-050A0E?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X" /></a>
   <img src="https://komarev.com/ghpvc/?username=DDharm007&label=VISITORS&color=00F5A0&style=for-the-badge" alt="views" />
 </p>
 

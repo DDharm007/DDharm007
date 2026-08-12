@@ -133,11 +133,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDharm007&bg_color=00000000&color=24292F&line=059669&point=0284C7&title_color=059669&area=true&area_color=059669&hide_border=true&custom_title=Commit%20Pulse" width="100%" alt="activity" />
 </picture>
 
-<br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=DDharm007&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" alt="trophies" />
-
-<br /><br />
 
 <!-- Contribution snake · requires .github/workflows/snake.yml -->
 <picture>

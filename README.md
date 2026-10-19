@@ -128,10 +128,6 @@
 
 <br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=DDharm007&bg_color=00000000&color=C9D1D9&line=00F5A0&point=00D9F5&title_color=00F5A0&area=true&area_color=00F5A0&hide_border=true&custom_title=Commit%20Pulse" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DDharm007&bg_color=00000000&color=24292F&line=059669&point=0284C7&title_color=059669&area=true&area_color=059669&hide_border=true&custom_title=Commit%20Pulse" width="100%" alt="activity" />
-</picture>
 </div>
 
 <br />

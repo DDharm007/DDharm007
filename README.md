@@ -128,9 +128,7 @@
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=DDharm007&theme=matrix&no-frame=true&no-bg=true&row=1&column=7&margin-w=12" alt="Trophies" />
 
-<br /><br />
 
 <table align="center">
   <tr>
